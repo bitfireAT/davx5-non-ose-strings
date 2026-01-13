@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation drawer -->
+    <string name="nav_earn_badges">Apoie-nos com selos</string>
+    <string name="nav_rate_us">Avaliar no Google Play</string>
+    <string name="nav_feedback_inapp_didnt_appear">A avaliação não apareceu dentro do app?</string>
+    <string name="nav_feedback_google_play">Enviar no Google Play</string>
+    <string name="nav_feedback_scroll_to_reviews">Role para a seção de avaliações para enviar retorno</string>
+
+    <!-- AboutActivity -->
+    <string name="about_flavor_info">Esta versão só é qualificada para distribuição pelo Google Play.</string>
+
+    <!-- EarnBadgesActivity -->
+    <plurals name="you_earned_badges">
+        <item quantity="one">Você ganhou um selo, obrigado!</item>
+        <item quantity="many">Você ganhou %dde selos, obrigado!</item>
+        <item quantity="other">Você ganhou %dselos, obrigado!</item>
+    </plurals>
+    <string name="available_badges">Selos disponíveis</string>
+    <string name="available_badges_empty">Desculpe, não foi possível carregar os selos. Você está conectado a Play Store?</string>
+    <string name="what_are_badges">O que são selos?</string>
+    <string name="what_are_badges_title">O que são selos?</string>
+    <string name="what_are_badges_body">Os selos são simples pagamentos feitos uma vez só. Você ganha um pequeno selo pequeno legalzinho e com ele você nos apoia ao correr do tempo.</string>
+    <string name="why_badges_title">Por que o DAVx5 oferece selos sem recursos?</string>
+    <string name="why_badges_body">O DAVx5 cresceu muito ao longo dos anos! Nós ainda estamos desenvolvendo ativamente novos recursos, oferecendo suporte, e sempre atualizamos o app para novas versões do Android. Esses selos são pagamentos feito-só-uma-vez onde você pode simplesmente mostrar seu apoio comprando para nós um café, ou dois&#8230; ou 10 :-) Nós queremos ser o mais transparentes possível, por causa disso, nunca teremos novas coisas bloqueadas por pagamentos dentro do app.</string>
+    <string name="button_buy_badge_free">GRÁTIS</string>
+    <string name="button_buy_badge_bought">Obrigado!</string>
+    <string name="earn_badges">Ganhe senhos por nos apoiar!</string>
+    <string name="billing_unavailable">A API de cobrança não está disponível</string>
+    <string name="purchase_acknowledgement_failed">Falha ao reconhecer a compra</string>
+    <string name="purchase_acknowledgement_successful">Obrigado pelo apoio!</string>
+    <string name="purchase_failed">Falha na compra</string>
+    <string name="network_problems">Problemas de rede, tente novamente mais tarde.</string>
+
+</resources>

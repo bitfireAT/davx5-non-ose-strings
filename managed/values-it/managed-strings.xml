@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="restriction_support_email_address">Indirizzo email di supporto</string>
+    <string name="restriction_support_phone_number">Numero di telefono di supporto</string>
+    <string name="restriction_login_password">Password</string>
+    <string name="restriction_max_accounts_description">Numero massimo di account DAVx⁵ per utente</string>
+
+    <string name="restriction_proxy_type">Tipo di proxy</string>
+    <string name="restriction_proxy_host">Host proxy</string>
+    <string name="restriction_proxy_host_description">Nome host proxy</string>
+    <string name="restriction_proxy_port">Porta proxy</string>
+    <string name="restriction_proxy_port_description">Numero porta proxy</string>
+
+    <string name="restriction_default_sync_interval">Intervallo di sincronizzazione predefinito</string>
+    <string name="restriction_default_sync_interval_description">Questo intervallo di sincronizzazione è impostato quando viene creato un account</string>
+    <string name="restriction_wifi_only">Sincronizza solo tramite WiFi</string>
+    <string name="restriction_wifi_only_ssids">Sincronizza solo tramite WiFi: SSIDs</string>
+    <string name="restriction_wifi_only_ssids_description">Lista separata da virgole di WiFi SSIDs permessi (\"wifi1,wifi2\")</string>
+
+    <string name="restriction_manage_calendar_colors">Gestisci i colori del calendario</string>
+    <string name="restriction_event_colors">Colori dell\'evento</string>
+    <string name="restriction_default_alarm">Promemoria predefinito</string>
+    <string name="restriction_show_only_personal">Mostra solo le collezioni personali</string>
+    <!-- notifications -->
+    <string name="license_invalid">Licenza non valida</string>
+    <string name="license_contact_it_support">Contatta il tuo dipartimento IT</string>
+    <string name="license_contact_it_support_email">Email</string>
+    <string name="license_contact_it_support_phone">Chiama il supporto</string>
+
+    <!-- LicenseChecker -->
+    <string name="license_not_found">Nessuna licenza trovata</string>
+    <string name="license_expired_on">Licenza scaduta il %s</string>
+
+    <!-- other UI -->
+    <string name="intro_slogan1">Il tuo ufficio. I tuoi dati.</string>
+    <string name="navigation_drawer_managed_configuration">Configurazioni gestite</string>
+    <string name="navigation_drawer_web_support">Informazioni di supporto</string>
+    <string name="navigation_drawer_email_support">Supporto via email</string>
+
+    <string name="about_license_invalid_license">Nessuna licenza valida trovata. Per favore contatta il tuo dipartimento IT.</string>
+    <string name="login_managed_config_please_log_in">Per favore esegui l\'accesso</string>
+    <string name="managed_config_title">Configurazioni gestite</string>
+    <string name="managed_config_reload_configuration">Ricarica</string>
+    <string name="managed_config_emm_info">Questa app è gestita da Android Enterprise.</string>
+    <string name="managed_config_network">Configurazione di rete</string>
+    <string name="managed_config_network_scan_qrcode">Scansiona il codice QR</string>
+    <string name="managed_config_network_invalid_url">URL non valido</string>
+    <string name="managed_config_network_reset_url">Cancella l\'URL</string>
+    <string name="managed_config_network_empty_configuration">Cancella la configurazione</string>
+    <string name="managed_config_network_config_url_saved">URL della configurazione salvato</string>
+    </resources>

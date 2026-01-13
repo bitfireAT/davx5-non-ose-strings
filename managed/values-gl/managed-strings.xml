@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- restrictions (EMM backend) -->
+    <string name="restriction_license">Licenza</string>
+    <string name="restriction_license_description">Datos da licenza (JSON)</string>
+    <string name="restriction_license_signature">Sinatura da licenza</string>
+    <string name="restriction_license_signature_description">Sinatura dixita requerida para validar a licenza (Base64)</string>
+    <string name="restriction_organization">Organización</string>
+    <string name="restriction_organization_description">Nome mostrado da organización</string>
+    <string name="restriction_logo_url">URL do logo</string>
+    <string name="restriction_logo_url_description">HTTP(S) URL do logo da organización (JPEG/PNG)</string>
+
+    <string name="restriction_support_homepage_url">URL da páxina de axuda</string>
+    <string name="restriction_login_introduction">Mensaxe de presentación ao acceder</string>
+    <string name="restriction_login_introduction_description">Mensaxe que se mostra cando a usuaria engade unha conta</string>
+    <string name="restriction_login_base_url">URL base para CalDAV/CardDAV</string>
+    <string name="restriction_login_base_url_description">URL de inicio para a detección do servizo CalDAV/CardDAV</string>
+    <string name="restriction_login_type">Tipo de acceso</string>
+    <string name="restriction_login_type_description">Tipo de acceso que se vai usar</string>
+    <string-array name="restriction_login_type_entries">
+        <item>Predeterminado</item>
+        <item>Fluxo do acceso con Nextcloud</item>
+    </string-array>
+    <string name="restriction_login_user_name">Identificador</string>
+    <string name="restriction_login_user_name_description">Identificador autocompletado</string>
+    <string name="restriction_login_password">Contrasinal</string>
+    <string name="restriction_login_password_description">Contrasinal autocompletado</string>
+    <string name="restriction_lock_credentials">Bloquear credenciais</string>
+    <string name="restriction_lock_credentials_description">Se as credenciais están bloqueadas seguindo o axuste da restrición</string>
+    <string name="restriction_login_certificate_alias">Alias do certificado do cliente</string>
+    </resources>
