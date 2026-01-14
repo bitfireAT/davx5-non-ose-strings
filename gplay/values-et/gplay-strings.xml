@@ -6,10 +6,8 @@
     <string name="nav_feedback_inapp_didnt_appear">Rakenduse-sisest arvustust pole näha?</string>
     <string name="nav_feedback_google_play">Saada Google Plays</string>
     <string name="nav_feedback_scroll_to_reviews">Tagasiside koostamiseks keri arvustuste lõiguni</string>
-
     <!-- AboutActivity -->
     <string name="about_flavor_info">Seda versiooni on võimalik levitada Google Play kaudu.</string>
-
     <!-- EarnBadgesActivity -->
     <plurals name="you_earned_badges">
         <item quantity="one">Suur tänu, sa oled teeninud ühe reklaamsildi!</item>
@@ -30,5 +28,13 @@
     <string name="purchase_acknowledgement_successful">Tänan sind toetuse eest!</string>
     <string name="purchase_failed">Ostmine ei õnnestunud</string>
     <string name="network_problems">Probleem võrguühendusega, palun proovi hiljem uuesti.</string>
-
+    <string name="badge_consumption_action">Kasutamiseks puuduta</string>
+    <string name="badge_consumption_message">Kasutamisega eemaldad selle märgi oma kogust ja näed lahedat animatsiooni. See võimaldab sul märgi uuesti osta ja jätkata meie toetamist.</string>
+    <string name="badge_consumption_warning">Kasutamist ei saa tagasi pöörata, aga see võimaldab sul märki uuesti teenida.</string>
+    <string name="badge_consumption_content_description">Teenisid märgi. Kasutamiseks puuduta</string>
+    <string name="badge_consumption_success_zero">Oled kõik ära kasutanud: %1$s.</string>
+    <plurals name="badge_consumption_success_multiple">
+        <item quantity="one">Oled kasutanud: %1$s. Jäänud on veel %2$d märk.</item>
+        <item quantity="other">Oled kasutanud: %1$s. Jäänud on veel %2$d märki.</item>
+    </plurals>
 </resources>
