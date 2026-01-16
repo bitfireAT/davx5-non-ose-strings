@@ -36,4 +36,5 @@
         <item quantity="one">Du hast ein %1$s verbraucht. %2$d Abzeichen übrig.</item>
         <item quantity="other">Du hast ein %1$s verbraucht. %2$d Abzeichen übrig.</item>
     </plurals>
+    <string name="badge_consumption_message">Der Verbrauch entfernt dieses Abzeichen aus deiner Bibliothek und zeigt eine coole Animation. So kannst du das Abzeichen erneut kaufen und uns weiterhin unterstützen.</string>
 </resources>
