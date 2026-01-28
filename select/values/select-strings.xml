@@ -4,4 +4,10 @@
   -->
 <resources>
     <string name="login_type_qr">Login with QR Code</string>
+
+    <string name="qr_scanner_error">Could not scan QR Code</string>
+    <string name="qr_scanner_cancel">Scan cancelled</string>
+    <string name="qr_scanner_launching">Launching QR Code Scanner…</string>
+
+    <string name="retry">Retry</string>
 </resources>
