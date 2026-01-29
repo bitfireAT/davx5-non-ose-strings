@@ -3,11 +3,10 @@
   ~ Copyright © All Contributors. See LICENSE and AUTHORS in the root directory for details.
   -->
 <resources>
-    <string name="login_type_qr">Login with QR Code</string>
+    <string name="login_type_preconfigured">Login with provided config</string>
 
-    <string name="qr_scanner_error">Could not scan QR Code</string>
-    <string name="qr_scanner_cancel">Scan cancelled</string>
-    <string name="qr_scanner_launching">Launching QR Code Scanner…</string>
+    <string name="profile_url">Config URL</string>
+    <string name="profile_url_help">Your server provider should give you a pre-configuration url.</string>
 
-    <string name="retry">Retry</string>
+    <string name="scan_qr">Scan QR Code</string>
 </resources>
