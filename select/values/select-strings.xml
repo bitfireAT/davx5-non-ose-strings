@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright © All Contributors. See LICENSE and AUTHORS in the root directory for details.
+  -->
+<resources>
+    <string name="login_type_preconfigured">Login with provided config</string>
+
+    <string name="profile_url">Config URL</string>
+    <string name="profile_url_help">Your server provider should give you a pre-configuration url.</string>
+
+    <string name="scan_qr">Scan QR Code</string>
+</resources>
