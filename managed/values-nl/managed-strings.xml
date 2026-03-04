@@ -93,7 +93,7 @@
     <string name="navigation_drawer_web_support">Ondersteuningsinfo</string>
     <string name="navigation_drawer_phone_support">Hulplijn</string>
     <string name="navigation_drawer_email_support">Ondersteuning per e-mail</string>
-    <string name="about_license_info_html"><![CDATA[Gelicentieerd voor maximaal <i>%1$d gebruikers</i>die werken voor <i>%2$s</i>.]]></string>
+    <string name="about_license_info_html"><![CDATA[Gelicentieerd voor maximaal <i>%1$d gebruikers</i> die werken voor <i>%2$s</i>.]]></string>
     <plurals name="about_license_domains">
         <item quantity="one">Bestemd voor domein: %s</item>
         <item quantity="other">Bestemd voor domeinen: %s</item>
@@ -103,7 +103,7 @@
     <string name="login_managed_config_info_html"><![CDATA[Je gebruikt een automatische configuratie geleverd door <i>%s</i>.]]></string>
     <string name="login_managed_config_waiting">Wachten op beheerde configuratie …</string>
     <string name="login_managed_config_it_department">Weet Ulje niet wat Ulje moet doen? Neem contact op met je IT-afdeling.</string>
-    <string name="login_managed_config_not_private"><![CDATA[Deze app is <a href=\"%1$s\">bedoeld voor organisaties</a>en niet voor privégebruikers. Je kunt <a href=\"%2$s\">een gratis testlicentie aanvragen</a>.]]></string>
+    <string name="login_managed_config_not_private"><![CDATA[Deze app is <a href="%1$s">bedoeld voor organisaties</a> en niet voor privégebruikers. Je kunt <a href="%2$s">een gratis testlicentie aanvragen</a>.]]></string>
     <string name="login_managed_config_please_log_in">Log in a.u.b.</string>
     <string name="login_managed_config_select_certificate_info">Kies een clientcertificaat dat zal worden gebruikt voor authenticatie.</string>
     <string name="login_managed_config_certificate_selected">Het cliëntcertificaat %szal worden gebruikt voor authenticatie.</string>

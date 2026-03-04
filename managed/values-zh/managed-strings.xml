@@ -102,7 +102,7 @@
     <string name="login_managed_config_info_html"><![CDATA[你正使用自动配置，提供方为 <i>%s</i>.]]></string>
     <string name="login_managed_config_waiting">正在等待受管的配置…</string>
     <string name="login_managed_config_it_department">不知道做什么？请联系你的 IT 部门。</string>
-    <string name="login_managed_config_not_private"><![CDATA[此应用的目标群体是 <a href=\"%1$s\">组织</a> 不是个人用户。 你可以 <a href=\"%2$s\">获得免费的测试许可证</a>。]]></string>
+    <string name="login_managed_config_not_private"><![CDATA[此应用的目标群体是 <a href=\"%1$s\">组织</a> 不是个人用户。 你可以 <a href=\"%2$s\">获得免费的测试许可证。</a>]]></string>
     <string name="login_managed_config_please_log_in">请登录</string>
     <string name="login_managed_config_select_certificate_info">选择将被用于身份验证的客户端证书</string>
     <string name="login_managed_config_certificate_selected">客户端证书 %s  将用于身份验证。</string>
