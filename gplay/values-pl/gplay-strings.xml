@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Navigation drawer -->
-    <string name="nav_earn_badges">Wspieraj nas z odznakami</string>
+    <string name="nav_earn_badges">Wspieraj nas odznakami</string>
     <string name="nav_rate_us">Oceń w Google Play</string>
     <string name="nav_feedback_inapp_didnt_appear">Nie pojawiła się recenzja w aplikacji?</string>
     <string name="nav_feedback_google_play">Wyślij w Google Play</string>
-    <string name="nav_feedback_scroll_to_reviews">Przewiń do sekcji recenzji aby zgłosić informację zwrotną.</string>
+    <string name="nav_feedback_scroll_to_reviews">Przewiń do sekcji recenzji, aby przesłać swoją opinię</string>
     <!-- AboutActivity -->
     <string name="about_flavor_info">Ta wersja nadaję się do dystrybucji tylko poprzez Google Play.</string>
     <!-- EarnBadgesActivity -->
     <plurals name="you_earned_badges">
         <item quantity="one">Zdobyłeś odznakę, dziękujemy!</item>
-        <item quantity="few">Zdobyłeś %d odznaki, dziękujemy</item>
-        <item quantity="many">Zdobyłeś %d odznaki, dziękujemy!</item>
+        <item quantity="few">Zdobyłeś %d odznaki, dziękujemy!</item>
+        <item quantity="many">Zdobyłeś %d odznak, dziękujemy!</item>
         <item quantity="other">Zdobyłeś %d odznak, dziękujemy!</item>
     </plurals>
     <string name="available_badges">Dostępne odznaki</string>
@@ -31,4 +31,14 @@
     <string name="purchase_failed">Zakup zakończył się niepowodzeniem</string>
     <string name="network_problems">Problemy sieciowe, spróbuj proszę ponownie później.</string>
     <string name="badge_consumption_warning">Konsumpcji nie można cofnąć, ale pozwoli ci to ponownie zdobyć odznakę.</string>
+    <string name="badge_consumption_action">Dotknij, aby użyć</string>
+    <string name="badge_consumption_message">Użycie usunie tę odznakę z Twojej biblioteki i pokaże fajną animację. Pozwoli to kupić tę odznakę ponownie i nadal nas wspierać.</string>
+    <string name="badge_consumption_content_description">Zdobyto odznakę. Dotknij aby ją użyć</string>
+    <string name="badge_consumption_success_zero">Użyto wszystkie %1$s.</string>
+    <plurals name="badge_consumption_success_multiple">
+        <item quantity="one">Użyto %1$s. Pozostała %2$d odznaka.</item>
+        <item quantity="few">Użyto %1$s. Pozostały %2$d odznaki.</item>
+        <item quantity="many">Użyto %1$s. Pozostało %2$d odznak.</item>
+        <item quantity="other">Użyto %1$s. Pozostało %2$d odznak.</item>
+    </plurals>
 </resources>
