@@ -11,6 +11,7 @@
     <!-- EarnBadgesActivity -->
     <plurals name="you_earned_badges">
         <item quantity="one">Heu guanyat una insígnia, gràcies!</item>
+        <item quantity="many">Heu guanyat %d d\'insígnies, gràcies!</item>
         <item quantity="other">Heu guanyat %d insígnies, gràcies!</item>
     </plurals>
     <string name="available_badges">Insígnies disponibles</string>
