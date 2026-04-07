@@ -17,4 +17,9 @@
     <string name="sync_validation_invalid_server">Server not supported.</string>
     <string name="sync_validation_validation_problem">Problem validating server-support.</string>
 
+    <!-- Select QR Code Login exceptions -->
+    <string name="error_no_uri">The QR code does not contain a valid URL</string>
+    <string name="error_no_config_url">The URL of the QR code is not a valid config URL</string>
+    <string name="error_invalid_schema">The URL of the QR code has an unknown scheme</string>
+
 </resources>
