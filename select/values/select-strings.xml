@@ -9,4 +9,12 @@
     <string name="profile_url_help">Your server provider should give you a pre-configuration url.</string>
 
     <string name="scan_qr">Scan QR Code</string>
+
+    <!-- notifications -->
+    <string name="sync_validation_title">Sync validation failed</string>
+    <string name="sync_validation_content">Synchronization disallowed</string>
+    <string name="sync_validation_missing_service_url">Could not find service url for account. Try refreshing collections.</string>
+    <string name="sync_validation_invalid_server">Server not supported.</string>
+    <string name="sync_validation_validation_problem">Problem validating server-support.</string>
+
 </resources>
