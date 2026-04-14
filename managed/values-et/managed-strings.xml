@@ -103,7 +103,7 @@
     <string name="login_managed_config_info_html"><![CDATA[Kasutad automaatset seadistust, mille koostas <i>%s</i>.]]></string>
     <string name="login_managed_config_waiting">Ootame keskselt hallatud seadistuste laadimist…</string>
     <string name="login_managed_config_it_department">Sa et tea mida teha? Võta ühendust oma it-kasutajatoega.</string>
-    <string name="login_managed_config_not_private"><![CDATA[See rakendus on <a href=\"%1$s\">mõeldud organisatsioonidele</a> ja mitte eraisikutele. Sa võid <a href=\"%2$s\">paluda võimalust testlitsentsi kasutamiseks</a>.]]></string>
+    <string name="login_managed_config_not_private"><![CDATA[See rakendus on <a href="%1$s">mõeldud organisatsioonidele</a> ja mitte eraisikutele. Sa võid <a href="%2$s">paluda võimalust testlitsentsi kasutamiseks</a>.]]></string>
     <string name="login_managed_config_please_log_in">Palun logi sisse</string>
     <string name="login_managed_config_select_certificate_info">Vali autentimiseks kliendisertifikaat.</string>
     <string name="login_managed_config_certificate_selected">%s kliendisertifikaat saab olema kasutusel autentimiseks.</string>
