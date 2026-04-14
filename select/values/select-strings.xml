@@ -3,6 +3,18 @@
   ~ Copyright © All Contributors. See LICENSE and AUTHORS in the root directory for details.
   -->
 <resources>
+    <!-- Select welcome screen strings -->
+    <string name="select_welcome_title_welcome_to">Welcome to</string>
+    <string name="select_welcome_title_davx5">DAVx⁵</string>
+    <string name="select_welcome_title_select">Select</string>
+    <string name="select_welcome_slogan_sync_your">Synchronize your</string>
+    <string name="select_welcome_slogan">Synchronize your Contacts, Calendars and Tasks with a selected server.</string>
+    <string name="select_welcome_slogan_contacts_calendars_tasks">Contacts, Calendars and Tasks</string>
+    <string name="select_welcome_slogan_with_server">with a selected server.</string>
+    <string name="select_welcome_logo_description">DAVx⁵ Select Logo</string>
+    <string name="select_welcome_illustration_description">Person walking next to large smartphone with sync icons</string>
+
+    <!-- Login with preconfigured settings -->
     <string name="login_type_preconfigured">Login with provided config</string>
 
     <string name="profile_url">Config URL</string>
