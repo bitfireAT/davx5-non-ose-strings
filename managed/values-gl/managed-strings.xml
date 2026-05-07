@@ -36,11 +36,11 @@
     <string name="restriction_login_certificate_and_password_description">Se se usa tanto un certificado cliente como identificador/contrasinal para o acceso</string>
     <string name="restriction_max_accounts">Máx. de contas</string>
     <string name="restriction_max_accounts_description">Número máximo de contas DAVx⁵ por usuaria</string>
-    <string name="restriction_proxy_type">Tipo de Proxy</string>
+    <string name="restriction_proxy_type">Tipo de mandatario</string>
     <string name="restriction_proxy_type_description">Rediríxense todas as conexións HTTP(s) en consecuencia</string>
     <string name="restriction_proxy_host">Servidor mandatario</string>
-    <string name="restriction_proxy_host_description">Nome do servidor Proxy</string>
-    <string name="restriction_proxy_port">Porto do Proxy</string>
+    <string name="restriction_proxy_host_description">Nome do servidor mandatario</string>
+    <string name="restriction_proxy_port">Porto do mandatario</string>
     <string name="restriction_proxy_port_description">Número de porto do mandatario</string>
     <string name="restriction_default_sync_interval">Intervalo de sincr predeterminado</string>
     <string name="restriction_default_sync_interval_description">Este intervalo para sincronizar establécese cando se crea a conta.</string>
