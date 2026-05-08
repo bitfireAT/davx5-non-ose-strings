@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <!-- restrictions (EMM backend) -->
     <string name="restriction_license">Licență</string>
     <string name="restriction_license_description">Date de licență (JSON)</string>
@@ -10,13 +9,11 @@
     <string name="restriction_organization_description">Numele organizației afișat</string>
     <string name="restriction_logo_url">Adresa URL a siglei</string>
     <string name="restriction_logo_url_description">Adresa URL HTTP(S) a siglei organizației (JPEG/PNG)</string>
-
     <string name="restriction_support_homepage_url">Adresa URL a paginii de asistență</string>
     <string name="restriction_support_homepage_url_description">Adresa URL HTTP(S) a paginii de asistență (pagina intranet care descrie modul de utilizare a DAVx⁵)</string>
     <string name="restriction_support_email_address">Adresă de e-mail de asistență</string>
     <string name="restriction_support_phone_number">Număr de telefon de asistență</string>
     <string name="restriction_support_phone_number_description">Număr de telefon de asistență (format: +1 234 5678901)</string>
-
     <string name="restriction_login_introduction">Mesaj de introducere pentru conectare</string>
     <string name="restriction_login_introduction_description">Mesaj care va fi afișat atunci când utilizatorul adaugă un cont</string>
     <string name="restriction_login_base_url">Adresa URL de bază CalDAV/CardDAV</string>
@@ -33,20 +30,18 @@
     <string name="restriction_login_password_description">Parolă pre-completată pentru autentificare</string>
     <string name="restriction_lock_credentials">Blocare acreditări</string>
     <string name="restriction_lock_credentials_description">Dacă numele de utilizator/parola este blocat dacă este stabilit prin restricție</string>
-    <string name="restriction_login_certificate_alias">Alias ​​certificat de client</string>
-    <string name="restriction_login_certificate_alias_description">Alias ​​al certificatului de client existent pentru a fi utilizat pentru autentificare</string>
+    <string name="restriction_login_certificate_alias">Alias certificat de client</string>
+    <string name="restriction_login_certificate_alias_description">Alias al certificatului de client existent pentru a fi utilizat pentru autentificare</string>
     <string name="restriction_login_certificate_and_password">Utilizează numele de utilizator/parola împreună cu certificatul de client</string>
     <string name="restriction_login_certificate_and_password_description">Dacă atât certificatul de client, cât și numele de utilizator/parola sunt folosite pentru autentificare</string>
     <string name="restriction_max_accounts">Conturi maxime</string>
     <string name="restriction_max_accounts_description">Numărul maxim de conturi DAVx⁵ per utilizator</string>
-
     <string name="restriction_proxy_type">Tip proxy</string>
     <string name="restriction_proxy_type_description">Toate conexiunile HTTP(S) sunt direcționate corespunzător</string>
     <string name="restriction_proxy_host">Gazdă proxy</string>
     <string name="restriction_proxy_host_description">Nume gazdă proxy</string>
     <string name="restriction_proxy_port">Port proxy</string>
     <string name="restriction_proxy_port_description">Numărul portului proxy</string>
-
     <string name="restriction_default_sync_interval">Interval de sincronizare implicit</string>
     <string name="restriction_default_sync_interval_description">Acest interval de sincronizare este setat atunci când este creat un cont.</string>
     <string name="restriction_preselect_collections">Preselectare colecții</string>
@@ -65,48 +60,39 @@
     <string name="restriction_preselect_collections_blacklist_description">Regexp pentru a exclude colecțiile din preselecție</string>
     <string name="restriction_force_address_books_read_only">Forțează ca agende de adrese doar în citire</string>
     <string name="restriction_force_address_books_read_only_description">Face ca toate agendele de adrese să nu fie editabile la nivel local</string>
-
     <string name="restriction_wifi_only">Sincronizare numai prin WiFi</string>
     <string name="restriction_wifi_only_description">Dacă sincronizarea se execută numai atunci când este conectat WiFi</string>
     <string name="restriction_wifi_only_ssids">Sincronizare numai prin WiFi: SSID-uri</string>
     <string name="restriction_wifi_only_ssids_description">Listă separată prin virgulă de SSID-uri WiFi permise (\"wifi1,wifi2\")</string>
-
     <string name="restriction_contact_group_method">Metoda de grupare a contactelor</string>
     <string name="restriction_contact_group_method_description">Cum sunt stocate grupurile de contacte pe serverul CardDAV</string>
-
     <string name="restriction_manage_calendar_colors">Gestionează culorile calendarului</string>
     <string name="restriction_manage_calendar_colors_description">Dacă DAVx⁵ va stabili culorile calendarului trimise de server la nivel local</string>
     <string name="restriction_event_colors">Culori evenimente</string>
     <string name="restriction_event_colors_description">Dacă se activează suportul pentru culori pentru fiecare eveniment (poate bloca aplicațiile de calendar)</string>
     <string name="restriction_default_alarm">Memento implicit</string>
     <string name="restriction_default_alarm_description">Setează un memento implicit cu acest număr de minute înainte de începerea fiecărui eveniment fără memento. null sau -1 înseamnă că nu există un memento implicit. Utilizatorii pot înlocui oricând această valoare.</string>
-
     <string name="restriction_show_only_personal">Afișează numai colecțiile personale</string>
     <string name="restriction_show_only_personal_description">Dacă sunt afișate numai colecțiile din propriul(ele) homeset(uri). -1 sau null înseamnă că utilizatorii pot alege singuri.</string>
-
     <!-- notifications -->
     <string name="license_invalid">Licență nevalidă</string>
     <string name="license_unlicensed_host_name">Gazda nu este acoperită de licență</string>
     <string name="license_contact_it_support">Contactează departamentul IT</string>
     <string name="license_contact_it_support_email">E-mail</string>
     <string name="license_contact_it_support_phone">Apelare asistență</string>
-
     <!-- LicenseChecker -->
     <string name="license_not_found">Nu a fost găsită nicio licență</string>
     <string name="license_signature_not_found">Nu a fost găsită nicio semnătură de licență</string>
     <string name="license_signature_invalid">Semnătura licenței nevalidă</string>
     <string name="license_not_valid">Nu s-a putut valida licența</string>
     <string name="license_expired_on">Licența a expirat la %s</string>
-
     <!-- other UI -->
     <string name="intro_slogan1">Biroul tău. Datele tale.</string>
     <string name="intro_slogan2">Muncește inteligent.</string>
-
     <string name="navigation_drawer_managed_configuration">Configurație gestionată</string>
     <string name="navigation_drawer_web_support">Informații de asistență</string>
     <string name="navigation_drawer_phone_support">Linie telefonică de asistență</string>
     <string name="navigation_drawer_email_support">Asistență prin e-mail</string>
-
     <string name="about_license_info_html"><![CDATA[Licențiat pentru până la <i>%1$d utilizatori</i> care lucrează pentru <i>%2$s</i>.]]></string>
     <plurals name="about_license_domains">
         <item quantity="one">Destinat domeniului: %s</item>
@@ -115,16 +101,14 @@
     </plurals>
     <string name="about_license_invalid_license">Nu a putut fi găsită nicio licență valabilă. Contactează departamentul IT.</string>
     <string name="about_license_valid_through">Licență valabilă prin: %s</string>
-
     <string name="login_managed_config_info_html"><![CDATA[Utilizezi o configurație automată oferită de <i>%s</i>.]]></string>
-    <string name="login_managed_config_waiting">Se așteaptă configurația gestionată...</string>
+    <string name="login_managed_config_waiting">Se așteaptă configurația gestionată…</string>
     <string name="login_managed_config_it_department">Nu știi ce să faci? Contactează departamentul IT.</string>
     <string name="login_managed_config_not_private"><![CDATA[Această aplicație este <a href=\"%1$s\">destinată organizațiilor</a> și nu utilizatorilor privați. Poți <a href=\"%2$s\">obține o licență de testare gratuită</a>.]]></string>
     <string name="login_managed_config_please_log_in">Conectează-te</string>
     <string name="login_managed_config_select_certificate_info">Alege un certificat de client care va fi folosit pentru autentificare.</string>
     <string name="login_managed_config_certificate_selected">Certificatul de client %s va fi folosit pentru autentificare.</string>
     <string name="login_managed_config_invalid_base_url">Adresa URL de bază nevalidă în configurația gestionată</string>
-
     <string name="managed_config_title">Configurație gestionată</string>
     <string name="managed_config_reload_configuration">Reîncărcare</string>
     <string name="managed_config_reloading_configuration">Se reîncarcă configurația</string>
@@ -141,5 +125,4 @@
     <string name="managed_config_network_empty_configuration">Configurație goală</string>
     <string name="managed_config_network_config_url_saved">Adresa URL de configurare a fost salvată</string>
     <string name="managed_config_network_config_url_cleared">URL-ul de configurare șters</string>
-
-    </resources>
+</resources>

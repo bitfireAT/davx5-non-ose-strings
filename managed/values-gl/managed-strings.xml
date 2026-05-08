@@ -50,7 +50,7 @@
     <string name="restriction_preselect_collections_blacklist_description">Regexp para excluír coleccións da preselección</string>
     <string name="restriction_force_address_books_read_only">Forzar como só-lectura as libretas de enderezos</string>
     <string name="restriction_force_address_books_read_only_description">Fai que todas as libretas de enderezos non se editen localmente</string>
-    <string name="restriction_wifi_only">Sincr só con WiFi</string>
+    <string name="restriction_wifi_only">Sincronizar só con WiFi</string>
     <string name="restriction_wifi_only_description">Se a sincronización só se pode realizar baixo unha conexión WiFi</string>
     <string name="restriction_wifi_only_ssids">Sincr con WiFi só: SSIDs</string>
     <string name="restriction_wifi_only_ssids_description">Lista separada por vírgulas cos SSIDs WiFi (wifi1, wifi2)</string>
@@ -102,7 +102,7 @@
     <string name="managed_config_network_enter_url">Escribir URL</string>
     <string name="managed_config_network_scan_qrcode">Escanear código QR</string>
     <string name="managed_config_network_url">Esta app está xestionada desde a rede usando este URL:</string>
-    <string name="managed_config_network_invalid_url">URL non válido</string>
+    <string name="managed_config_network_invalid_url">URL inválido</string>
     <string name="managed_config_network_reset_url">Limpar URL</string>
     <string name="managed_config_network_empty_configuration">Configuración baleira</string>
     <string name="managed_config_network_config_url_saved">URL de configuración gardado</string>
